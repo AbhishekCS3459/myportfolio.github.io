@@ -101,7 +101,8 @@ p
  
 
 img {
-    width: 300%;
+    width: 300px;
+    hight: 300px;
     animation: zoomIn 1s ease forwards;
     animation-delay: 1s;
     opacity: 0;
